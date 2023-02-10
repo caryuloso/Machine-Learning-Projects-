@@ -1,5 +1,5 @@
 # Dataset-Cleaning-Mammographic-Masses-Dataset
-A python script that looks for errors in a mammogrpahic mass data set and prepares it for a random forest ML alorithm
+A python script that looks for errors in a mammogrpahic mass data set and prepares it for a random forest ML algorithm
   1. Adjusting the dataframe (adding column names, removing columns that are not needed by the model, etc.)
   2. Familiarize user with the data
      - Checks if there is missing data 
