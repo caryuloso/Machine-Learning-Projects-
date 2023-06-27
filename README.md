@@ -1,2 +1,1 @@
-# March Madness Data Crunch Competition
-This project contains the step-by-step procedure followed by my Deloitte March Madness Data Crunch Competition team to choose a machine learning algorithm for predicting the winners of the NCAA Men's Basketball Tournament. The goal of this project is to leverage historical data and apply various machine-learning techniques to make accurate predictions for the upcoming tournament.
+
